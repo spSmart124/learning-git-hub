@@ -1,0 +1,5 @@
+notes/
+.vscode/
+sensitiveInfo.conf
+node_modules
+**/*-todo.md
